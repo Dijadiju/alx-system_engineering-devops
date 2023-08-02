@@ -4,4 +4,6 @@ The 0-current_working_directory script prints the absolute path of my current wo
 
 The 1-lisit script prints the content of my current working directoy.
 
-The 2-bring_me_home scripts changes the working directory to the user's home directory.
+The 2-bring_me_home script changes the working directory to the user's home directory.
+
+The 3-listfiles script shows the long format of the content of working directory.
