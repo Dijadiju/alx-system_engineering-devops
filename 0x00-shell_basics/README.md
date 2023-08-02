@@ -14,4 +14,6 @@ The 6-firstdirectory script created a file inside the /tmp directory.
 
 The 7-movethatfile script moved the file betty into the the my-firstdirectory in the tmp directory but I first created the betty file in the tmp directory.
 
-The 9-firstdelete script removed the betty file from the /tmp/my_first_directory path. 
+The 8-firstdelete script removed the betty file from the /tmp/my_first_directory path.
+
+The 9-firstdirdeletion removed the directory in the tmp directory. 
