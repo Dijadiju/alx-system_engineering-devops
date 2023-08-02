@@ -11,3 +11,5 @@ The 3-listfiles script shows the long format of the content of working directory
 The 5-listfilesdigitonly script list the user and group IDS numerically in long format
 
 The 6-firstdirectory script created a file inside the /tmp directory.
+
+The 7-movethatfile script moved the file betty into the the my-firstdirectory in the tmp directory but I first created the betty file in the tmp directory. e
