@@ -16,4 +16,6 @@ The 7-movethatfile script moved the file betty into the the my-firstdirectory in
 
 The 8-firstdelete script removed the betty file from the /tmp/my_first_directory path.
 
-The 9-firstdirdeletion removed the directory in the tmp directory. 
+The 9-firstdirdeletion removed the directory in the tmp directory.
+
+The 10-back script changed the current working directory to the previous one. 
