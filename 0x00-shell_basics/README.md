@@ -21,3 +21,5 @@ The 9-firstdirdeletion removed the directory in the tmp directory.
 The 10-back script changed the current working directory to the previous one.
 
 The 11-lists script displays the content in the current working directory, the parent of working directory and the /boot directory in this order in a long format including . files (which usually are hidden files).
+
+The 12-file_type script displays the file type for iamafile located in the /tmp directory. 
