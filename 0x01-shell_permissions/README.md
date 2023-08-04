@@ -7,3 +7,5 @@ The 1-who_am_i script prints the effective username of the current user.
 The 2-groups script prints all the groups the current user is part of.
 
 The 3-new_owner changes the owner of the hello file to betty.
+
+The 4-empty creates an empty file called hello.
