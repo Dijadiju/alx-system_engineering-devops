@@ -35,3 +35,5 @@ The 101-symbolic_link_permissions script changes the owner and the group owner o
 The 102-if_only script changes the owner of the file hello to betty only if it is owned by the user guillaume.
 
 The 103-Star_Wars script will play the StarWars IV episode in the terminal.
+
+The school.mgc script file creates a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
