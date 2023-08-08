@@ -3,3 +3,5 @@ This readme file will describe every tasks I complete for my 0x02-shell_redirect
 The 0-hello_world script prints “Hello, World”, followed by a new line to the standard output.
 
 The 1-confused_smiley displays a a confused smiley "(Ôo)'.
+
+The 2-hellofile display the content of the /etc/passwd file in the terminal. 
