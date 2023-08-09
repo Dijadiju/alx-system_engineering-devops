@@ -37,3 +37,5 @@ The 16-whatsnext script displays the  lines containing the pattern “root” an
 The 17-hidethisword script display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 
 The 18-letteronly script displays all the lines in the /etc/ssh/sshd_config file staring with letters including capital letter'
+
+The 19-AZ scrip replaces all characters A and c from input to Z and e respectively.
