@@ -42,4 +42,6 @@ The 19-AZ scrip replaces all characters A and c from input to Z and e respective
 
 The 20-hiago removes all letters c and C from input. 
 
-The 21-reverse reverse its input.
+The 21-reverse script reverse its input.
+
+The 22-users_and_homes script displays all users and their home directories, sorted by users based on the the /etc/passwd file.
