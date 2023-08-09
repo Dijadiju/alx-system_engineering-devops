@@ -1,4 +1,4 @@
-iThis readme file will describe every tasks I complete for my 0x02-shell_redirections project.
+This readme file will describe every tasks I complete for my 0x02-shell_redirections project.
 
 The 0-hello_world script prints “Hello, World”, followed by a new line to the standard output.
 
@@ -25,3 +25,5 @@ The 10-no-more_js script deletes all the regular files (not the directories) wit
 The 11-directories script counts the number of directories and sub-directories in the current directory excluding the current and the parent working directory. 
 
 The 12-newest_files script displays the 10 newest files in the current directory. 
+
+The 13-unique script takes a list of words as input and prints only words that appear exactly once, input format: One line, one word and output format: One line, one word, in sorted form.
