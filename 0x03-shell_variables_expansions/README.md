@@ -14,4 +14,6 @@ The 5-local_variables script lists all local variables and environment variables
 
 The 6-create_local_variable script creates a new local variable.
 
-The 7-create_global_variable script creates a new global variable name: BEST and variable: SChool.
+The 7-create_global_variable script creates a new global variable name: BEST and variable: SChool.e
+
+The 8-true_knowledge script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
