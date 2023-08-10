@@ -9,3 +9,5 @@ The 2-path script adds /action to the PATH. /action is the last directory the sh
 The 3-path script counts the number of directories in the PATH.
 
 The 4-global_variables script lists environment variables.
+
+The 5-local_variables script lists all local variables and environment variables, and functions.
