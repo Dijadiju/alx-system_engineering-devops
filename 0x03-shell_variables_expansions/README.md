@@ -17,3 +17,15 @@ The 6-create_local_variable script creates a new local variable.
 The 7-create_global_variable script creates a new global variable name: BEST and variable: SChool.e
 
 The 8-true_knowledge script prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
+The 9-divide_and_rule script prints the result of POWER divided by DIVIDE, followed by a new line, POWER and DIVIDE are environmnet varibles.
+
+The 10-love_exponent_breath script displays the result of BREATH to the power LOVE, BREATH and LOVE are environment varibles and the script displays the results and followed it with a new line.
+
+The 11-binary_to_decimal srcript converts a number from base 2 to base 10.The number in base 2 is stored in the environmentvariable BINARY and he script displays the number in base 10, followed by a new line.
+
+The 12-combinations script Create a script that prints all possible combinations of two letters, except oo. Letters are lower cases, from a to z,one combination per line, the output should be alpha ordered, starting with aa excluding oo,and the script file contain maximum 64 characters.
+
+The 13-print_float prints a number with two decimal places, followed by a new line, the number will be stored in the environment variable NUM.
+
+The 
