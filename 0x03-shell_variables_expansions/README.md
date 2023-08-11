@@ -33,3 +33,5 @@ The 100-decimal_to_hexadecimal script converts a number from base 10 to base 16,
 The 101-rot13 script encodes and decodes text using the rot13 encryption. Assume ASCII.
 
 The 102-odd script prints every other line from the input, starting with the first line.
+
+The 103-water_and_stir script adds the two numbers stored in the environment variables WATER and STIR and prints the result. WATER is in base water; STIR is in base stir; the result is in base bestchol.
